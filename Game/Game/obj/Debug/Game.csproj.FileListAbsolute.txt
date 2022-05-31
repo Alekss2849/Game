@@ -1,0 +1,10 @@
+C:\Users\stark\Downloads\Game-main\Game-main\Game\Game\bin\Debug\Game.exe.config
+C:\Users\stark\Downloads\Game-main\Game-main\Game\Game\bin\Debug\Game.exe
+C:\Users\stark\Downloads\Game-main\Game-main\Game\Game\bin\Debug\Game.pdb
+C:\Users\stark\Downloads\Game-main\Game-main\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\stark\Downloads\Game-main\Game-main\Game\Game\obj\Debug\Game.View.resources
+C:\Users\stark\Downloads\Game-main\Game-main\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\stark\Downloads\Game-main\Game-main\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\stark\Downloads\Game-main\Game-main\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\stark\Downloads\Game-main\Game-main\Game\Game\obj\Debug\Game.exe
+C:\Users\stark\Downloads\Game-main\Game-main\Game\Game\obj\Debug\Game.pdb
